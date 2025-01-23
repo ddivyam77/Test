@@ -6,4 +6,4 @@ elif x.startswith("h") :
     print("$20")
 else:
     print("$100")
-
+print("hola")
